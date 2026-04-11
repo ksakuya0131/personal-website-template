@@ -1,0 +1,15 @@
+[
+  {
+    "id": "id",
+    "title": " title_en",
+    "titleJa": " title_jp",
+    "authors": " author_en",
+    "authorsJa": " author_jp",
+    "journal": " journal_en",
+    "journalJa": " journal_jp",
+    "year": " pub",
+    "month": "ic",
+    "doi": " doi",
+    "isMainWork": false
+  }
+]
