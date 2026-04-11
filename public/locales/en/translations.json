@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Sakuya Kotake"
   },
   "nav": {
     "bio": "About",
@@ -10,17 +10,17 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Sakuya Kotake",
+    "nameJp": "小竹朔矢",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "phdJp": "",
+    "position": "Senior Undergraduate Student",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "Research Interests",
     "researchTags": [
       "Mathematics",
@@ -61,7 +61,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "kotake[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
